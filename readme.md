@@ -17,3 +17,7 @@ https://api.vvhan.com/
 #花海
 
 https://pis.junsangs.com/
+
+#真人/动漫/风景/cos调用
+
+https://imgapi.cn/
