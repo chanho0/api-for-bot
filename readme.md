@@ -34,5 +34,7 @@ https://imgapi.cn/
 
 http://hm.suol.cc/
 
-#acg 速度快
+#acg 速度快，小姐姐无特色
 https://api.nmb.show/1985acg.php
+https://api.nmb.show/xiaojiejie1.php
+https://api.nmb.show/xiaojiejie2.php
