@@ -21,3 +21,7 @@ https://pis.junsangs.com/
 #真人/动漫/风景/cos调用
 
 https://imgapi.cn/
+
+#慕名
+
+http://hm.suol.cc/
