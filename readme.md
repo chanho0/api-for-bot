@@ -33,3 +33,6 @@ https://imgapi.cn/
 #慕名
 
 http://hm.suol.cc/
+
+#acg 速度快
+https://api.nmb.show/1985acg.php
