@@ -2,6 +2,10 @@
 
 https://github.com/fangzesheng/free-api
 
+#京东万象
+
+https://wx.jdcloud.com/api
+
 #r18
 
 https://www.prlrr.com/wallpaper-API/
